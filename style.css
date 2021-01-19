@@ -1,0 +1,28 @@
+#displayArea_0, #displayArea_1, #displayArea_2{
+	height: 100px;
+	width: 800px;
+}
+
+#displayArea_0 {
+	padding: 15px;
+	background: rgb(34,193,195);
+	background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(117,191,138,1) 38%, rgba(152,190,114,1) 54%, rgba(185,189,92,1) 69%, rgba(214,188,72,1) 82%, rgba(253,187,45,1) 100%);
+}
+
+#displayArea_1 {
+	padding: 15px;
+	background: rgb(238,174,202);
+	background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+	text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+#displayArea_2 {
+	padding: 15px;
+	background: rgb(131,58,180);
+	background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+	text-shadow: 2px 2px #F0F8FF;
+}
+
+#button1 {
+	margin-bottom: 15px;
+}
